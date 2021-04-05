@@ -3,5 +3,5 @@
 # ItunesArtistApp
 
 This application consume's the [Itune Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
-to fetch the Artist that matches the search keyword. It uses the Architectur components including: Room to store data locally, View models (MVVM Architecture) 
+to fetch for the Artist that matches the search keyword. It uses the Architectur components including: Room to store data locally, View models (MVVM Architecture) 
 and Retrofit for networking.
