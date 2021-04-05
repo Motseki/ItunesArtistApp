@@ -1,0 +1,15 @@
+$dokka.format:html
+$dokka.linkExtension:html
+$dokka.location:com.wednesday.itunes.music.app.util$toCurrency(kotlin.Double, kotlin.String)com.wednesday.itunes.music.app.util/kotlin.-double/to-currency.html
+$dokka.location:com.wednesday.itunes.music.app.util$toDate(kotlin.String)com.wednesday.itunes.music.app.util/kotlin.-string/to-date.html
+$dokka.location:com.wednesday.itunes.music.app.util$toStringDate(java.util.Date)com.wednesday.itunes.music.app.util/java.util.-date/to-string-date.html
+com.wednesday.itunes.music.app
+com.wednesday.itunes.music.app.source.api
+com.wednesday.itunes.music.app.source.boundary
+com.wednesday.itunes.music.app.source.cache
+com.wednesday.itunes.music.app.source.cache.dao
+com.wednesday.itunes.music.app.source.repository
+com.wednesday.itunes.music.app.ui
+com.wednesday.itunes.music.app.ui.detail
+com.wednesday.itunes.music.app.ui.home
+com.wednesday.itunes.music.app.util

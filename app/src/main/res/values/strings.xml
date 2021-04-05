@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Itunes Music App</string>
+    <string name="itunes_music">iTunes Music</string>
+    <string name="search">Search</string>
+</resources>
