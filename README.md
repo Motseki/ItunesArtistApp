@@ -3,7 +3,7 @@
 
 <img src="/images/previewgif.gif" width="200" align="left" hspace = "20">
 
-# ItunesMovieApp
+# ItunesArtistApp
 
 A sample app that consume the [Itune Search API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/). 
 This demo app only fetches MOVIES that matches the search keyword. 
