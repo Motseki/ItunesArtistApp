@@ -1,3 +1,5 @@
+<img src="/images/previewgif.gif" width="200" align="left" hspace = "20">
+
 # ItunesArtistApp
 
 A sample app that consume the Itune Search API. This demo app only fetches MOVIES that matches the search keyword.
